@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Courier</string>
+    <string name="title_activity_driver_layout">Map</string>
+    <string name="title_activity_driver_main_interface">Map</string>
+</resources>
